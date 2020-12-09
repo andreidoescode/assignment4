@@ -1,2 +1,2 @@
 # assignment4
-CPSC225 assignment 4 repo
+This is a test project
